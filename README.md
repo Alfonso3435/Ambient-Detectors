@@ -1,6 +1,10 @@
 # Ambient-Detectors
 ![image](https://github.com/user-attachments/assets/31af5e7d-da3d-4691-9c53-a47d1d66eece)
 
+# Authors 
+- [@Alfonso3435](https://github.com/Alfonso3435)
+- [@Teze14](https://github.com/Teze14)
+
 # 📌 Features
 - Real-time monitoring of 5 environmental variables:
 
